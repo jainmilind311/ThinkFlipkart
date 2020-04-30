@@ -1,6 +1,11 @@
 #include<iostream>
 using namespace std;
 
+
+void toLower(char string[]){
+	printf(Crap! to lowee"");
+}
+
 int main(){
 
 	cout<<"This is C++"<<endl;
