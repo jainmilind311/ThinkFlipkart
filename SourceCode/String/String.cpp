@@ -22,3 +22,9 @@ void aisehi(){
 	cout<<"Branch testinh not merged till noe,, making changes in string.cpp now<<endl
 
 }
+// FOLLOWING ARE MADE IN MASTER BRANCH
+	void printCrap(){
+		cout<<"CRAPP ! CRAPPPP!!!! "<<endl;
+	}
+
+// END
