@@ -15,3 +15,10 @@ int main(){
 void toUpper(){
 	function for to upper!!!
 }
+
+
+
+void aisehi(){
+	cout<<"Branch testinh not merged till noe,, making changes in string.cpp now<<endl
+
+}
